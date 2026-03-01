@@ -1,1 +1,5 @@
-# EndlessRunner
+EndlessRunner is a 2D endless runner game made in Unity. The player controls a character that runs forward automatically and must avoid obstacles while collecting coins. The goal of the game is to survive as long as possible and get a high score. As time goes on, the game will gradually become faster and more difficult to keep it challenging.
+
+Over the next two weeks, I plan to build the main gameplay systems. I will implement automatic spawning for at least three different obstacle types and add collectible coins that increase the player’s score. I also plan to increase the difficulty over time by adjusting speed or spawn rate. After the core systems are working, I will add basic animations, sound effects, and at least one visual effect such as particles or camera shake. I will also set up a full game flow including a menu, game over screen, and restart system.
+
+Right now, I am using basic Unity placeholder assets for testing. For the final version, I will either use free assets from legal sources such as the Unity Asset Store with proper credit, or create the assets myself. All asset sources will be clearly documented in this repository.
